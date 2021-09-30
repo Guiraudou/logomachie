@@ -1,2 +1,2 @@
 # logomachie
-Génération de phrases bien vides de sens, mais permettant de briller en réunion
+Générateur de phrases bien vides de sens, mais permettant de briller en réunion.

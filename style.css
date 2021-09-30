@@ -1,0 +1,11 @@
+html, body {
+	background-color: #f8f9fa!important;
+}
+
+section {
+	padding: 20px 0;
+}
+
+.card-body p:last-child {
+	margin-bottom: 0;
+}
